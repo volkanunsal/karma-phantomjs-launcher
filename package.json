@@ -21,7 +21,7 @@
   },
   "peerDependencies": {
     "karma": ">=0.9",
-    "phantomjs2": ">=2.0.0"
+    "phantomjs": "git@github.com:zeevl/phantomjs2.git"
   },
   "license": "MIT",
   "devDependencies": {
